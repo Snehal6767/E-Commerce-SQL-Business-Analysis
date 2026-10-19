@@ -24,6 +24,8 @@ The database consists of three core relational tables:
 * **Finding:** Used conditional logic (`CASE`) to segment users by overall order spend.
 * **Insight:** Identified high-value customers contributing to over half of the platform revenue, enabling targeted retention campaigns.
 
+## 📊 Executive Dashboard Preview
+![Dashboard Preview](dashboard_preview.png)
 ---
 
 ## Technical Skills Demonstrated
